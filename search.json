@@ -2,14 +2,14 @@
   {
     "objectID": "index.html#hello-there",
     "href": "index.html#hello-there",
-    "title": "Testing",
+    "title": "Testing Changes",
     "section": "Hello, There",
     "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
   },
   {
     "objectID": "index.html#pretty-code",
     "href": "index.html#pretty-code",
-    "title": "Testing",
+    "title": "Testing Changes",
     "section": "Pretty Code",
     "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\nimport rasterio\n\n\n\n\nhttps://developmentseed.org"
   }
