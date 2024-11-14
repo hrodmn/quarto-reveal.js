@@ -8,8 +8,9 @@ format:
       buttons: false
     preview-links: auto
     logo: logo_no_text.png
-    css: styles.css
     footer: <https://developmentseed.org>
+    theme: dark
+    css: styles.css
 ---
 
 ## Hello, There
